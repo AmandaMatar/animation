@@ -1,6 +1,6 @@
 # Animation
 
-**Esse projeto é apenas um apartado de estudo ligado ao The VUe 3 Bootcamp - The Complete Developer GUide, onde o professor, para ensinar as animações com vue, separa esse conteúdo de aprendizado, para depois ser trabalho no projeto original QuizApp**
+**Esse projeto é apenas um apartado de estudo ligado ao The Vue 3 Bootcamp - The Complete Developer GUide, onde o professor, para ensinar as animações com vue, separa esse conteúdo de aprendizado, para depois ser trabalho no projeto original QuizApp**
 
 <br>
 <br>
