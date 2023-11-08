@@ -6,7 +6,7 @@
 <br>
 
 > [!NOTE]
-> Você pode conferir todo conteúdo do projeto originar clicando [aqui](https://github.com/AmandaMatar/QuizApp)
+> Você pode conferir todo conteúdo do projeto original clicando [aqui!](https://github.com/AmandaMatar/QuizApp) 
 
 <br>
 <br>
