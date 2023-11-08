@@ -1,4 +1,27 @@
-# animation
+# Animation
+
+**Esse projeto é apenas um apartado de estudo ligado ao The VUe 3 Bootcamp - The Complete Developer GUide, onde o professor, para ensinar as animações com vue, separa esse conteúdo de aprendizado, para depois ser trabalho no projeto original QuizApp**
+
+<br>
+<br>
+
+> [!NOTE]
+> Você pode conferir todo conteúdo do projeto originar clicando [aqui](https://github.com/AmandaMatar/QuizApp)
+
+<br>
+<br>
+
+> [!IMPORTANT]
+> Este material tem apenas o intuito educativo, para consultas posteriores.
+
+<br>
+<br>
+
+Obrigada! :nerd_face:
+
+<br>
+<br>
+<br>
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,4 +50,4 @@ npm run dev
 ```sh
 npm run build
 ```
-# animation
+
